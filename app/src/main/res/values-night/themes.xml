@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherPro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_grey</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    
+    <color name="white_color">@color/dark_grey</color>
+    <color name="dark_grey_color">@color/white</color>
+</resources>

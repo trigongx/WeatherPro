@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#E1E1E1</color>
+    <color name="light_black">#090B11</color>
+    <color name="dark_grey">#212223</color>
+    <color name="yellow">#D69E36</color>
+    <color name="yellow_transparent">#CDDFAE53</color>
+    <color name="yellow_light">#EACA8F</color>
+    <color name="chart_line_color">#FFC355</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_transparent">#66ACA0B7</color>
+
+</resources>
